@@ -1,7 +1,7 @@
 let musicas = [
-    {titulo:'Tiffany', artista:'MD Chefe', source:'musicas/tiffany.mp3', img:'imagens/md.jpeg'},
-    {titulo:'BIN', artista:'Rolex', source:'musicas/rolex.mp3', img:'imagens/bin.jpeg'},
-    {titulo:'Iphone Branco', artista:'Borges', source:'musicas/iphone branco.mp3', img:'imagens/borges.jpeg'}
+    {titulo:'Tiffany', artista:'MD Chefe', source:'musicas/tiffany.mp3', img:'Imagens/md.jpeg'},
+    {titulo:'BIN', artista:'Rolex', source:'musicas/rolex.mp3', img:'Imagens/bin.jpeg'},
+    {titulo:'Iphone Branco', artista:'Borges', source:'musicas/iphone branco.mp3', img:'Imagens/borges.jpeg'}
 ];
 
 // INICIO
